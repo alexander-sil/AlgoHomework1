@@ -8,7 +8,7 @@ namespace AlgoHomework1
             int i = 2;
 
 
-		// Невозможно сделать цикл while с альтернативным условием, поэтому я сделал цикл на основе метки
+	// Невозможно сделать цикл while с альтернативным условием, поэтому я сделал цикл на основе метки
         mark:
             if (i < number)
             {
@@ -25,7 +25,7 @@ namespace AlgoHomework1
                 return d == 0;
             }
 			
-			return false;
+            return false;
         }
     }
 }
